@@ -1,3 +1,3 @@
-Wordpress theme for styrit.chalmers.it.
+Wordpress theme for http://styrit.chalmers.it.
 
 Created by me
